@@ -57,8 +57,9 @@ img, svg{
 }
 
 .image img{
-    width: 55px;
-    height: 55px;
+    width: 57px;
+    height: 57px;
+    border:2px solid white;
     border-radius:50%;
     object-fit: cover;
     aspect-ratio: 1/1;
